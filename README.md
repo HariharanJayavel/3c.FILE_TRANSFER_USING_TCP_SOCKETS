@@ -1,4 +1,4 @@
-![Screenshot 2024-04-10 190255](https://github.com/HariharanJayavel/3c.FILE_TRANSFER_USING_TCP_SOCKETS/assets/144870546/0c84c584-1680-4bbd-ad5e-a810c709e0b0)# 3c.CREATION FOR FILE TRANSFER USING TCP SOCKETS
+# 3c.CREATION FOR FILE TRANSFER USING TCP SOCKETS
 ## AIM
 To write a python program for creating File Transfer using TCP Sockets Links
 ## ALGORITHM:
